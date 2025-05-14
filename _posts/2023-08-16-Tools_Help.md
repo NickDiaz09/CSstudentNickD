@@ -13,6 +13,8 @@ title: Tool References
 
 ### `WSL` [Basic Commands](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
 
+### `Linux Commands` [Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/)### `WSL` [Basic Commands](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
+
 ### `Linux Commands` [Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/)
 
 ### `Docker` [Docker Overview](https://docs.docker.com/get-started/overview/)
