@@ -52,6 +52,8 @@ courses: { compsci: {week: 2} }
       <div class="calculator-number">0</div>
       <div class="calculator-number">.</div>
       <div class="calculator-equals">=</div>
+      <div class="calculator-operation">^2</div>
+      <div class="calculator-operation">sqrt</div>
   </div>
 </div>
 
@@ -132,6 +134,12 @@ courses: { compsci: {week: 2} }
           case "/":
               result = first / second;
               break;
+          case "^2":
+             result = first * first;
+             break; 
+          case "sqrt":
+            result = Math.sqrt(first);
+            break;
           default: 
               break;
       }
